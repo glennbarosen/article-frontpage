@@ -1,9 +1,4 @@
 ### article-frontpage
+> Take home test for job interview 📝
 
-##### Setup
-
-- Clone
-- `yarn`
-- `yarn dev`
-
-or see the live demo [here.](https://paper.glennbarosen.com)
+[Live demo.](https://paper.glennbarosen.com)
